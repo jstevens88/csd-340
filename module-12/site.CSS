@@ -24,8 +24,8 @@ h1{
 	
 }
 img {
-	width: 400px;
-	height: 350px;
+	width: 250px;
+	height: 250px;
 }
 figcaption {
     font-family: 'Oswald', Verdana, Arial, sans-serif;
@@ -79,10 +79,7 @@ figcaption {
 	text-align: right;
 }
 
-.form-field {
-	padding: 20px;
-	
-}
+
 
 .btn {
 	border: none;
